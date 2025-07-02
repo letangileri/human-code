@@ -15,7 +15,7 @@ Aprire un pacchetto di figurine
     - SE manca la figurina nell'album:
         l'appiccico
     - ALTRIMENTI:
-        vado avanti
+        vado avanti fin quando non finisco il numero di figurine
 
 
 
